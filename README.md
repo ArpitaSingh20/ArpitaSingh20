@@ -32,7 +32,7 @@
 ## 🏢 Professional Experience
 - **Software Engineer** — Infinite Computer Solutions, Chennai (Aug 2023 – Present)
   - Improved ETL throughput by **30%** via SSIS package redesign and optimized data movement
-  - Authored **15+** T‑SQL stored procedures, cutting data retrieval time by **40%**
+  - Authored **45+** T‑SQL stored procedures, cutting data retrieval time by **40%**
   - Automated weekly reports with **SSRS**, saving ~**8 developer hours/month**
   - Built reliable .NET tools for task automation and streamlined team operations
 - **Core Java Developer** — Aptron Solution Pvt Ltd, Noida (Jul 2022 – Sep 2022)
